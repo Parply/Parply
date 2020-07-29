@@ -2,11 +2,11 @@
 
 
 
-### Hi there 👋
+### 👋 Hi there 
 I'm Alex, a 🎓 recent MSci Mathematics graduate from Imperial College London. Primarily interested in statistics and machine learning applied to finance and banking.
 
 
-### Languages I use
+### 💻 Languages I use
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
 ![R](https://img.shields.io/badge/-R-000000?style=flat-square&logo=r)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-000000?style=flat-square&logo=matlab)
