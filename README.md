@@ -16,6 +16,8 @@ I'm Alex, a 🎓 recent MSci Mathematics graduate from Imperial College London. 
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat-square&logo=css)
 ![Regex](https://img.shields.io/badge/-Regex-000000?style=flat-square&logo=regex)
 ![UNIX](https://img.shields.io/badge/-UNIX-000000?style=flat-square&logo=unix)
+![VIM](https://img.shields.io/badge/-vim-000000?style=flat-square&logo=vim)
+
 
 <h3> 📊 Some stats </h3><br/>
 
