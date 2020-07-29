@@ -9,7 +9,7 @@ I'm Alex, a 🎓Recent MSci Mathematics graduate from Imperial College London. P
 ### Languages I use
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
 ![R](https://img.shields.io/badge/-R-000000?style=flat-square&logo=r)
-![MATLAB](https://img.shields.io/badge/-Matlab-000000?style=flat-square&logo=matlab)
+![MATLAB](https://img.shields.io/badge/-MATLAB-000000?style=flat-square&logo=matlab)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-000000?style=flat-square&logo=latex)
 ![FORTRAN](https://img.shields.io/badge/-Fortran-000000?style=flat-square&logo=fortran)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5)
@@ -28,10 +28,11 @@ I'm Alex, a 🎓Recent MSci Mathematics graduate from Imperial College London. P
  
  
 <h3> 📫 How to reach me </h3>
-
+<p>
 <a href="https://www.linkedin.com/in/alexander-pinches-52b099165/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alexander%20John%20Pinches-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.kaggle.com/giraffey"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Giraffey-blue?style=flat-square&logo=kaggle"></a>
-
+<a href="mailto:alex_pinches@btinternet.com"><img alt="Email" src="https://img.shields.io/badge/Email-alex_pinches@btinternet.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 </br>
 <p>
     <img src="http://views.whatilearened.today/views/github/Parply/views.svg"/>
