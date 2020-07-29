@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Parply/Parply/master/Github_banner.png" alt="Welcome to Alexander Pinches's Github" />
+<img src="https://raw.githubusercontent.com/Parply/Parply/master/banner.png" alt="Welcome to Alexander Pinches's Github" />
 
 
 
