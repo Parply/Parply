@@ -3,7 +3,7 @@
 
 
 ### 👋 Hi there 
-I'm Alex, a 🎓 recent MSci Mathematics graduate from <a href="https://www.imperial.ac.uk/">Imperial College London<\a>. Primarily interested in statistics and machine learning applied to finance and banking.
+I'm Alex, a 🎓 recent MSci Mathematics graduate from <a href="https://www.imperial.ac.uk/">Imperial College London</a>. Primarily interested in statistics and machine learning applied to finance and banking.
 
 
 ### 💻 Languages I use
