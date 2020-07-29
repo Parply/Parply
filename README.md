@@ -3,7 +3,7 @@
 
 
 ### Hi there 👋
-
+🎓Recent MSci Mathematics graduate from Imperial College London
 
 <h3> 📊 Some stats </h3><br/>
 
@@ -12,16 +12,20 @@
   
 </p>
 
-<p>
-    <img src="http://views.whatilearened.today/views/github/Parply/views.svg"/>
-    <a href="https://github.com/MrStanDu33/"><img src="https://img.shields.io/github/followers/Parply?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
-</p>
+
  
  
 <h3> 📫 How to reach me </h3>
 
 <a href="https://www.linkedin.com/in/alexander-pinches-52b099165/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alexander%20John%20Pinches-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.kaggle.com/giraffey"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Giraffey-blue?style=flat-square&logo=kaggle"></a>
+
+</br>
+<p>
+    <img src="http://views.whatilearened.today/views/github/Parply/views.svg"/>
+    <a href="https://github.com/MrStanDu33/"><img src="https://img.shields.io/github/followers/Parply?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+</p>
+
 <!--
 **Parply/Parply** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
