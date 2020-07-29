@@ -13,7 +13,9 @@
   </p>
 </p><br/><br/>
 
+### 📫 How to reach me
 
+<a href="https://www.linkedin.com/in/alexander-pinches-52b099165/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alexander%20John%20Pinches-blue?style=flat-square&logo=linkedin"></a>
 
 <!--
 **Parply/Parply** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
