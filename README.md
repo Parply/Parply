@@ -23,7 +23,7 @@
 </br>
 <p>
     <img src="http://views.whatilearened.today/views/github/Parply/views.svg"/>
-    <a href="https://github.com/MrStanDu33/"><img src="https://img.shields.io/github/followers/Parply?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+    <a href="https://github.com/MrStanDu33/"><img src="https://img.shields.io/github/followers/Parply?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
 </p>
 
 <!--
