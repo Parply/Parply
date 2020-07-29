@@ -21,7 +21,7 @@
 <h3> 📫 How to reach me </h3>
 
 <a href="https://www.linkedin.com/in/alexander-pinches-52b099165/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alexander%20John%20Pinches-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.linkedin.com/in/alexander-pinches-52b099165/"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Alexander%20John%20Pinches-blue?style=flat-square&logo=kaggle"></a>
+<a href="https://www.kaggle.com/giraffey"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Giraffey-blue?style=flat-square&logo=kaggle"></a>
 <!--
 **Parply/Parply** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
