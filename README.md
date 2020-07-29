@@ -10,12 +10,12 @@ I'm Alex, a 🎓Recent MSci Mathematics graduate from Imperial College London. P
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
 ![R](https://img.shields.io/badge/-R-000000?style=flat-square&logo=r)
 ![MATLAB](https://img.shields.io/badge/-Matlab-000000?style=flat-square&logo=matlab)
-![LaTeX](https://img.shields.io/badge/-Matlab-000000?style=flat-square&logo=matlab)
+![LaTeX](https://img.shields.io/badge/-LaTeX-000000?style=flat-square&logo=latex)
 ![FORTRAN](https://img.shields.io/badge/-Fortran-000000?style=flat-square&logo=fortran)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-Css-000000?style=flat-square&logo=css)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat-square&logo=css)
 ![Regex](https://img.shields.io/badge/-Regex-000000?style=flat-square&logo=regex)
-![UNIX](https://img.shields.io/badge/-Unix-000000?style=flat-square&logo=unix)
+![UNIX](https://img.shields.io/badge/-UNIX-000000?style=flat-square&logo=unix)
 
 <h3> 📊 Some stats </h3><br/>
 
