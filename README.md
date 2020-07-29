@@ -11,7 +11,7 @@ I'm Alex, a 🎓 recent MSci Mathematics graduate from Imperial College London. 
 ![R](https://img.shields.io/badge/-R-000000?style=flat-square&logo=r)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-000000?style=flat-square&logo=matlab)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-000000?style=flat-square&logo=latex)
-![FORTRAN](https://img.shields.io/badge/-Fortran-000000?style=flat-square&logo=fortran)
+![FORTRAN](https://img.shields.io/badge/-FORTRAN-000000?style=flat-square&logo=fortran)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat-square&logo=css)
 ![Regex](https://img.shields.io/badge/-Regex-000000?style=flat-square&logo=regex)
@@ -21,7 +21,8 @@ I'm Alex, a 🎓 recent MSci Mathematics graduate from Imperial College London. 
 
 <p>
   <img align="center" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Parply&show_icons=true&hide_border=false&line_height=20&show_owner=true"/>
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parply&layout=compact)](https://github.com/Parply/github-readme-stats)
+
 </p>
 
 
