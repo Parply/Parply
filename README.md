@@ -7,6 +7,7 @@ I'm Alex, a 🎓 recent MSci Mathematics graduate from Imperial College London. 
 
 
 ### Languages I use
+<p align="center">
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
 ![R](https://img.shields.io/badge/-R-000000?style=flat-square&logo=r)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-000000?style=flat-square&logo=matlab)
@@ -17,7 +18,7 @@ I'm Alex, a 🎓 recent MSci Mathematics graduate from Imperial College London. 
 ![Regex](https://img.shields.io/badge/-Regex-000000?style=flat-square&logo=regex)
 ![UNIX](https://img.shields.io/badge/-UNIX-000000?style=flat-square&logo=unix)
 ![VIM](https://img.shields.io/badge/-Vim-000000?style=flat-square&logo=vim)
-
+</p>
 
 <h3> 📊 Some stats </h3><br/>
 
@@ -35,11 +36,11 @@ I'm Alex, a 🎓 recent MSci Mathematics graduate from Imperial College London. 
 <a href="https://www.kaggle.com/giraffey"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Giraffey-blue?style=flat-square&logo=kaggle"></a>
 <a href="mailto:alex_pinches@btinternet.com"><img alt="Email" src="https://img.shields.io/badge/Email-alex_pinches@btinternet.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-</br>
+
 
 ------
 
-<p>
+<p align="center">
     <img src="http://views.whatilearened.today/views/github/Parply/views.svg"/>
     <a href="https://github.com/Parply/"><img src="https://img.shields.io/github/followers/Parply?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
   <a href="https://github.com/Parply/"><img src="https://img.shields.io/github/last-commit/Parply/Parply?style=flat-square?color=red&label=Last%20Commit%20%3A"/></a>
