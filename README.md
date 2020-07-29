@@ -29,7 +29,7 @@ I'm Alex, a 🎓 recent MSci Mathematics graduate from Imperial College London. 
  
  
 <h3> 📫 How to reach me </h3>
-<p>
+<p align="center">
 <a href="https://www.linkedin.com/in/alexander-pinches-52b099165/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alexander%20John%20Pinches-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.kaggle.com/giraffey"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Giraffey-blue?style=flat-square&logo=kaggle"></a>
 <a href="mailto:alex_pinches@btinternet.com"><img alt="Email" src="https://img.shields.io/badge/Email-alex_pinches@btinternet.com-blue?style=flat-square&logo=gmail"></a>
