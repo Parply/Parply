@@ -1,7 +1,4 @@
-[![Header](https://raw.githubusercontent.com/Parply/Parply/master/banner.png)](https://www.github.com/Parply)
-
-
-<img src="https://raw.githubusercontent.com/Parply/Parply/master/banner.png" alt="Welcome to Alexander Pinches's Github" />
+<img src="https://raw.githubusercontent.com/Parply/Parply/master/banner.png" alt="Welcome to Alexander Pinches's Github" width="100%"/>
 
 
 
