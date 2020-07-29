@@ -3,7 +3,7 @@
 
 
 ### Hi there 👋
-I'm Alex, a 🎓Recent MSci Mathematics graduate from Imperial College London. Primarily interested in statistics and machine learning applied to finance and banking.
+I'm Alex, a 🎓 recent MSci Mathematics graduate from Imperial College London. Primarily interested in statistics and machine learning applied to finance and banking.
 
 
 ### Languages I use
@@ -36,7 +36,9 @@ I'm Alex, a 🎓Recent MSci Mathematics graduate from Imperial College London. P
 </br>
 <p>
     <img src="http://views.whatilearened.today/views/github/Parply/views.svg"/>
-    <a href="https://github.com/MrStanDu33/"><img src="https://img.shields.io/github/followers/Parply?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+    <a href="https://github.com/Parply/"><img src="https://img.shields.io/github/followers/Parply?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+  <a href="https://github.com/Parply/"><img src="https://img.shields.io/github/last-commit/Parply/Parply?style=flat-square?color=red&label=Last%20Commit%20%3A"/></a>
+
 </p>
 
 <!--
