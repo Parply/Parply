@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 
-### 📊 Some stats
+<h3> 📊 Some stats </h3><br/>
 
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Parply&show_icons=true&hide_border=false&line_height=20&show_owner=true"/>
@@ -13,9 +13,9 @@
     <img src="http://views.whatilearened.today/views/github/Parply/views.svg"/>
     <a href="https://github.com/MrStanDu33/"><img src="https://img.shields.io/github/followers/Parply?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
   </p>
-</p><br><br/>
+</p><br/><br/>
 
-### 📫 How to reach me
+<h3> 📫 How to reach me </h3><br/>
 
 <a href="https://www.linkedin.com/in/alexander-pinches-52b099165/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alexander%20John%20Pinches-blue?style=flat-square&logo=linkedin"></a>
 
