@@ -12,6 +12,7 @@ I'm Alex, a recent MSci Mathematics graduate 🎓 from <a href="https://www.impe
 ![MATLAB](https://img.shields.io/badge/-MATLAB-000000?style=flat-square&logo=matlab)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-000000?style=flat-square&logo=latex)
 ![FORTRAN](https://img.shields.io/badge/-FORTRAN-000000?style=flat-square&logo=fortran)
+![C++](https://img.shields.io/badge/-Vim-000000?style=flat-square&logo=c++)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat-square&logo=css)
 ![Regex](https://img.shields.io/badge/-Regex-000000?style=flat-square&logo=regex)
