@@ -21,7 +21,7 @@ I'm Alex, a recent MSci Mathematics graduate 🎓 from <a href="https://www.impe
 <h3> 📊 Some stats </h3><br/>
 
 <p align="center">
-  <img align="center" width="450" height="165" src="https://github-readme-stats.vercel.app/api?username=Parply&show_icons=true&hide_border=false&line_height=20&show_owner=true"/>
+  <img align="center" width="450" height="165" src="https://github-readme-stats.vercel.app/api?username=Parply&show_icons=true&hide_border=false&line_height=20&show_owner=true&hide=HTML&langs_count=6"/>
 <img align="center" width="450" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parply&layout=compact"/>
 </p>
 
