@@ -1,6 +1,8 @@
 <a href="https://www.overleaf.com/read/cjnxndmzzmxq"><img src="https://raw.githubusercontent.com/Parply/Parply/master/banner.png" alt="Welcome to Alexander Pinches's Github" width="100%"/></a>
 
-
+<p align="center">
+<a href="https://github.com/Parply/config-files"><img src="https://raw.githubusercontent.com/Parply/Parply/master/Screenshot.png" alt="Maths and Programming Addict" width="50%"/></a>
+</p>
 
 <h3>👋 Hi there</h3> 
 I'm Alex, a recent MSci Mathematics graduate 🎓 from <a href="https://www.imperial.ac.uk/">Imperial College London</a>. Primarily interested in statistics and machine learning applied to finance and banking.
