@@ -30,7 +30,7 @@ I'm Alex, a recent MSci Mathematics graduate 🎓 from <a href="https://www.impe
 
 <details>
 <summary> 📊 Weekly Stats </summary>
-<p align="center">
+
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
 
@@ -77,7 +77,7 @@ No Activity Tracked This Week
 
 
 <!--END_SECTION:waka-->
-</p>
+
 </details>
  
 <details>
