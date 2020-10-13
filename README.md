@@ -6,7 +6,7 @@
 I'm Alex, a recent MSci Mathematics graduate 🎓 from <a href="https://www.imperial.ac.uk/">Imperial College London</a>. Primarily interested in statistics and machine learning applied to finance and banking.
 
 
-### 💻 Languages I use
+## 💻 Languages I use
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
 ![R](https://img.shields.io/badge/-R-000000?style=flat-square&logo=r)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-000000?style=flat-square&logo=matlab)
@@ -18,13 +18,13 @@ I'm Alex, a recent MSci Mathematics graduate 🎓 from <a href="https://www.impe
 ![UNIX](https://img.shields.io/badge/-UNIX-000000?style=flat-square&logo=unix)
 ![VIM](https://img.shields.io/badge/-Vim-000000?style=flat-square&logo=vim)
 
-<h3> 📊 Some stats </h3><br/>
-
+<details>
+<summary> 📊 Some GitHub stats </summary>
 <p align="center">
   <img align="center" width="450" height="165" src="https://github-readme-stats.vercel.app/api?username=Parply&show_icons=true&hide_border=false&line_height=20&show_owner=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 <img align="center" width="450" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parply&layout=compact&hide=HTML&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 </p>
-
+</details>
 
  
 <details>
