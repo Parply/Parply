@@ -13,12 +13,14 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: Parply/waka-readme@master
+      - uses: Parply/Parply@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_PROJECTS: "False"
+          SHOW_LINES_OF_CODE: "True"
+          LOCALE: "en"
           SHOW_TIMEZONE: "True"
           SHOW_TITLE: "True"
-          COMMIT_MESSAGE: Updated the Readme
+          COMMIT_MESSAGE: Updated the Readme with Waka Stats
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
 
