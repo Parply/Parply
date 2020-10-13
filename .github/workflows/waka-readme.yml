@@ -1,0 +1,24 @@
+name: Waka Readme 
+
+on:
+  push:
+    branches: [master]
+    pull_request:
+      branches: [master]
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Parply/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_PROJECTS: "False"
+          SHOW_TIMEZONE: "True"
+          SHOW_TITLE: "True"
+          COMMIT_MESSAGE: Updated the Readme
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+
