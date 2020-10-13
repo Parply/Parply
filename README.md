@@ -46,7 +46,7 @@ I'm Alex, a recent MSci Mathematics graduate 🎓 from <a href="https://www.impe
 ------
 
 <p align="center">
-    <a href="https://visitor-badge.glitch.me/badge?page_id=Parply.Parply"/></a>
+    ![](https://visitor-badge.glitch.me/badge?page_id=Parply.Parply)
     <a href="https://github.com/Parply/"><img src="https://img.shields.io/github/followers/Parply?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
   <a href="https://github.com/Parply/"><img src="https://img.shields.io/github/last-commit/Parply/Parply?style=flat-square?color=red&label=Last%20Updated%20%3A"/></a>
 </p>
