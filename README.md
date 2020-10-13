@@ -32,6 +32,50 @@ I'm Alex, a recent MSci Mathematics graduate 🎓 from <a href="https://www.impe
 <summary> 📊 Weekly Stats </summary>
 <p align="center">
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 224 Contributions in the Year 2020
+ > 
+> 📦 129.6 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 24 Public Repositories
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.46% 
+🌆 Daytime    83 commits     ██████████░░░░░░░░░░░░░░░   39.9% 
+🌃 Evening    29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.94% 
+🌙 Night      68 commits     ████████░░░░░░░░░░░░░░░░░   32.69%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**Timeline**
+
+![Chart not found](https://github.com/Parply/Parply/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 </p>
 </details>
