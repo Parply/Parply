@@ -21,8 +21,8 @@ I'm Alex, a recent MSci Mathematics graduate 🎓 from <a href="https://www.impe
 <details>
 <summary> 📊 Some GitHub stats </summary>
 <p align="center">
-  <img align="center" width="450" height="165" src="https://github-readme-stats.vercel.app/api?username=Parply&show_icons=true&hide_border=false&line_height=20&show_owner=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&title_color=fff&text_color=fff"/>
-<img align="center" width="450" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parply&layout=compact&hide=HTML&langs_count=10&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&title_color=fff&text_color=fff"/>
+  <img align="center" width="450" height="165" src="https://github-readme-stats.vercel.app/api?username=Parply&show_icons=true&hide_border=false&line_height=20&show_owner=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite"/>
+<img align="center" width="450" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parply&layout=compact&hide=HTML&langs_count=10&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite"/>
 </p>
 </details>
 
