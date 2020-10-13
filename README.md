@@ -27,14 +27,14 @@ I'm Alex, a recent MSci Mathematics graduate 🎓 from <a href="https://www.impe
 
 
  
- 
-<h3> 📫 How to reach me </h3>
+<details>
+<summary> 📫 Contact me </summary>
 <p align="center">
 <a href="https://www.linkedin.com/in/alexander-pinches-52b099165/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alexander%20John%20Pinches-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.kaggle.com/giraffey"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Giraffey-blue?style=flat-square&logo=kaggle"></a>
 <a href="mailto:alex_pinches@btinternet.com"><img alt="Email" src="https://img.shields.io/badge/Email-alex_pinches@btinternet.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
+</details>
 
 ------
 
@@ -44,17 +44,3 @@ I'm Alex, a recent MSci Mathematics graduate 🎓 from <a href="https://www.impe
   <a href="https://github.com/Parply/"><img src="https://img.shields.io/github/last-commit/Parply/Parply?style=flat-square?color=red&label=Last%20Updated%20%3A"/></a>
 </p>
 
-<!--
-**Parply/Parply** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
