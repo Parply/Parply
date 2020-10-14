@@ -32,7 +32,7 @@ I'm Alex, a recent MSci Mathematics graduate 🎓 from <a href="https://www.impe
 </details>
 
 <details>
-<summary> 📊 Weekly Stats </summary>
+<summary> <h2>📊 Weekly Stats</h2> </summary>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-187561%20lines%20of%20code-blue)
