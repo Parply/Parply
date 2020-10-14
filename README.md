@@ -24,7 +24,7 @@ I'm Alex, a recent MSci Mathematics graduate 🎓 from <a href="https://www.impe
 ![VIM](https://img.shields.io/badge/-Vim-000000?style=flat-square&logo=vim)
 
 <details>
-<summary> 📊 Some GitHub stats </summary>
+<summary> <b>📊 Some GitHub stats </b></summary>
 <p align="center">
   <img align="center" width="450" height="165" src="https://github-readme-stats.vercel.app/api?username=Parply&show_icons=true&hide_border=false&line_height=20&show_owner=true&bg_color=0,EE82EE,FFFFFF&theme=graywhite"/>
 <img align="center" width="450" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parply&layout=compact&hide=HTML&langs_count=10&bg_color=0,EE82EE,FFFFFF&theme=graywhite"/>
@@ -32,7 +32,7 @@ I'm Alex, a recent MSci Mathematics graduate 🎓 from <a href="https://www.impe
 </details>
 
 <details>
-<summary> <h2>📊 Weekly Stats</h2> </summary>
+<summary> <b>📊 Weekly Stats</b> </summary>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-187561%20lines%20of%20code-blue)
@@ -124,7 +124,7 @@ HTML                     1 repos             █░░░░░░░░░░�
 </details>
  
 <details>
-<summary> 📫 Contact me </summary>
+<summary> <b>📫 Contact me </b></summary>
 <p align="center">
 <a href="https://www.linkedin.com/in/alexander-pinches-52b099165/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alexander%20John%20Pinches-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.kaggle.com/giraffey"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Giraffey-blue?style=flat-square&logo=kaggle"></a>
