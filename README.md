@@ -9,7 +9,7 @@
 I'm Alex, a recent MSci Mathematics graduate 🎓 from <a href="https://www.imperial.ac.uk/">Imperial College London</a>. Primarily interested in statistics and machine learning applied to finance and banking.
 
 
-<h2>💻 Languages I use</h2>
+<h3>💻 Languages I use</h3>
 
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
