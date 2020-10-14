@@ -35,27 +35,27 @@ I'm Alex, a recent MSci Mathematics graduate 🎓 from <a href="https://www.impe
 <summary> 📊 Weekly Stats </summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-188470%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 224 Contributions in the Year 2020
+> 🏆 232 Contributions in the Year 2020
  > 
-> 📦 129.6 kB Used in Github's Storage 
+> 📦 130.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 24 Public Repositories
+> 📜 23 Public Repositories
  > 
 > 🔑 1 Private Repository 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.46% 
-🌆 Daytime    83 commits     ██████████░░░░░░░░░░░░░░░   39.9% 
-🌃 Evening    29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.94% 
-🌙 Night      68 commits     ████████░░░░░░░░░░░░░░░░░   32.69%
+🌞 Morning    28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
+🌆 Daytime    83 commits     █████████░░░░░░░░░░░░░░░░   38.25% 
+🌃 Evening    29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.36% 
+🌙 Night      77 commits     ████████░░░░░░░░░░░░░░░░░   35.48%
 
 ```
 
