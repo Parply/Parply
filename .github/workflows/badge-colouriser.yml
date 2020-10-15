@@ -3,7 +3,7 @@ name: Rainbow badges
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 30 * * *'
+    - cron: '0 1 * * *'
 
 jobs:
   update-readme:
