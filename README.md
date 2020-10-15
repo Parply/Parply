@@ -147,6 +147,6 @@ Cuda                     2 repos             ██░░░░░░░░░�
 </p>
 
 <p align="center">
-<a href="https://github.com/Parply/readme-badge-colouriser"> Make your badges into a rainbow </a>
+<a href="https://github.com/Parply/readme-badge-colouriser"> Make your badges into a rainbow 🏳️‍🌈</a>
 </p>
 
