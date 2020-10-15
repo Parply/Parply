@@ -135,10 +135,6 @@ Cuda                     2 repos             ██░░░░░░░░░�
 <a href="https://www.kaggle.com/giraffey"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Giraffey-blue?style=flat-square&logo=kaggle"></a>
 <a href="mailto:alex_pinches@btinternet.com"><img alt="Email" src="https://img.shields.io/badge/Email-alex_pinches@btinternet.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-<p align="center">
-<a href="https://github.com/Parply/readme-badge-colouriser"> Make your badges into a rainbow </a>
-</p>
 </details>
 
 ------
@@ -147,5 +143,9 @@ Cuda                     2 repos             ██░░░░░░░░░�
   <img src="https://komarev.com/ghpvc/?username=Parply" alt="Parply" />
     <a href="https://github.com/Parply/"><img src="https://img.shields.io/github/followers/Parply?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
   <a href="https://github.com/Parply/"><img src="https://img.shields.io/github/last-commit/Parply/Parply?style=flat-square?color=red&label=Last%20Updated%20"/></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/Parply/readme-badge-colouriser"> Make your badges into a rainbow </a>
 </p>
 
