@@ -131,6 +131,10 @@ Cuda                     2 repos             ██░░░░░░░░░�
 <a href="https://www.kaggle.com/giraffey"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Giraffey-blue?style=flat-square&logo=kaggle"></a>
 <a href="mailto:alex_pinches@btinternet.com"><img alt="Email" src="https://img.shields.io/badge/Email-alex_pinches@btinternet.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+<p align="center">
+<a href="https://github.com/Parply/readme-badge-colouriser"> Make your badges into a rainbow </a>
+</p>
 </details>
 
 ------
