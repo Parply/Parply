@@ -1,0 +1,16 @@
+name: Rainbow badges
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update-readme:
+    name: Update Readme with Rainbow badges
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Parply/readme-badge-colouriser@master
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          
