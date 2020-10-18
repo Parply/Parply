@@ -39,7 +39,7 @@ I'm Alex, a recent MSci Mathematics graduate 🎓 from <a href="https://www.impe
 <summary> <b>📊 Weekly Stats</b> </summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-197922%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-200037%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
