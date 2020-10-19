@@ -150,7 +150,5 @@ Cuda                     2 repos             █░░░░░░░░░░�
   <a href="https://github.com/Parply/"><img src="https://img.shields.io/github/last-commit/Parply/Parply?style=flat-square?color=red&label=Last%20Updated%20"/></a>
 </p>
 
-<p align="center">
-<a href="https://github.com/Parply/readme-badge-colouriser"> <img src="https://img.shields.io/badge/-Make your badges into a rainbow-0000FF?style=for-the-badge&logo="/></a>
-</p>
+
 
