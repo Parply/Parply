@@ -43,13 +43,13 @@ I'm Alex, a recent MSci Mathematics graduate 🎓 from <a href="https://www.impe
 <summary> <b>📊 Weekly Stats</b> </summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-202501%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-203428%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 346 Contributions in the Year 2020
  > 
-> 📦 136.8 kB Used in Github's Storage 
+> 📦 137.0 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
