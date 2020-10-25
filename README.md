@@ -49,7 +49,7 @@ I'm Alex, a recent MSci Mathematics graduate 🎓 from <a href="https://www.impe
 
 > 🏆 346 Contributions in the Year 2020
  > 
-> 📦 137.4 kB Used in Github's Storage 
+> 📦 137.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
