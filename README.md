@@ -12,7 +12,7 @@
 
 I'm Alex, a recent MSci Mathematics graduate 🎓 from <a href="https://www.imperial.ac.uk/">Imperial College London</a>. Primarily interested in statistics and machine learning applied to finance and banking. 
 
-You can see my masters dissertation and source code <a href="https://github.com/Parply/PDFEmulators">here</a>.
+You can see my masters dissertation and accompanying source code <a href="https://github.com/Parply/PDFEmulators">here</a>.
 
 
 <h3> 👨‍💻 Languages I use</h3>
