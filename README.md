@@ -45,13 +45,13 @@ You can see my masters dissertation and accompanying source code <a href="https:
 <summary> <b>📊 Weekly Stats</b> </summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-195051%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-203898%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 351 Contributions in the Year 2020
  > 
-> 📦 139.1 kB Used in Github's Storage 
+> 📦 139.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
