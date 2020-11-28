@@ -49,7 +49,7 @@ You can see my masters dissertation and accompanying source code <a href="https:
 
 **🐱 My Github Data** 
 
-> 📦 145.3 kB Used in Github's Storage 
+> 📦 145.5 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
