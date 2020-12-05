@@ -51,7 +51,7 @@ You can see my masters dissertation and accompanying source code <a href="https:
 
 > 🏆 357 Contributions in the Year 2020
  > 
-> 📦 146.9 kB Used in Github's Storage 
+> 📦 147.2 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
