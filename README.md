@@ -51,13 +51,13 @@ You can see my masters dissertation and accompanying source code <a href="https:
 
 > 🏆 357 Contributions in the Year 2020
  > 
-> 📦 147.2 kB Used in Github's Storage 
+> 📦 147.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 33 Public Repositories
+> 📜 33 Public Repositories 
  > 
-> 🔑 3 Private Repositories 
+> 🔑 3 Private Repositories  
 
 **I'm a Night 🦉** 
 
