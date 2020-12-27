@@ -132,7 +132,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 <details>
 <summary> <b>📫 Contact me </b></summary>
 <p align="center">
-<a href="https://www.linkedin.com/in/alexander-pinches-52b099165/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alexander%20John%20Pinches-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/alexander-pinches/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alexander%20John%20Pinches-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="https://www.kaggle.com/giraffey"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Giraffey-blue?style=for-the-badge&logo=kaggle"></a>
 <a href="mailto:alex_pinches@btinternet.com"><img alt="Email" src="https://img.shields.io/badge/Email-Alexander%20John%20Pinches-blue?style=for-the-badge&logo=gmail"></a>
 </p>
