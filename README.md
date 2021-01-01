@@ -49,7 +49,7 @@ You can see my masters dissertation and accompanying source code <a href="https:
 
 **🐱 My Github Data** 
 
-> 🏆 389 Contributions in the Year 2020
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 168.2 kB Used in Github's Storage 
  > 
