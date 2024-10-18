@@ -10,7 +10,7 @@
 
 <h3> <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> Hi there </h3> 
 
-I'm Alex, a MSci Mathematics graduate 🎓 from <a href="https://www.imperial.ac.uk/">Imperial College London</a>. Primarily interested in statistics and machine learning applied to finance and banking. I work in the buy side as a quant analyst.
+I'm Alex, I work in the buy side as a quant analyst with focus on systematic credit and hold a MSci Mathematics from <a href="https://www.imperial.ac.uk/">Imperial College London</a>.
 
 You can see my masters dissertation and accompanying source code <a href="https://github.com/Parply/PDFEmulators">here</a>.
 
